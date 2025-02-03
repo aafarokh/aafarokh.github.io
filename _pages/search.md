@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search
+title: Publicatoins
 permalink: /search/
 ---
 
