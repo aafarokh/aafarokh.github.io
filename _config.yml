@@ -24,16 +24,15 @@ footer-links:
   email: aafarokh@gmail.com
   facebook:
   flickr:
-  google scholar: https://scholar.google.com/citations?user=57FPEXMAAAAJ&hl=en&authuser=1 
-  github: https://github.com/aafarokh
+  github: aafarokh 
   instagram:
-  linkedin: https://www.linkedin.com/in/amirali-farokhniaee-31072199/
+  linkedin: in/amirali-farokhniaee-31072199/
   pinterest:
   rss: 
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: citations?user=57FPEXMAAAAJ&hl=en&authuser=1 # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
