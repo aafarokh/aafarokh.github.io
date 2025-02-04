@@ -1,8 +1,16 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
-categories: [Miscellaneous, Jekyll]
+title: About Me
+# categories: [Miscellaneous, Jekyll]
 ---
+I am a research scientist with a solid background in physics, theoretical-computational neuroscience, and biomedical engineering. My research focus is on neuromodulation and brain stimulation techniques modeling and analysis that involves deep brain stimulation (DBS) for Parkinson's disease (PD) and non-invasive sound stimulation for mild cognitive impairment (MCI). I explore the basic neuroscientific aspects of the functionality of invasive and non-invasive stimulation techniques by developing network oscillation models (both spiking neuronal networks and mean-field models), running computer simulations in various levels of complexity, and analysis of brain signals such as local field potentials (LFP) from deep brain areas and electroencephalography (EEG). By applying advance signal processing techniques, I explore the neuronal dynamics within different brain circuits. In addition, I investigate and propose novel ideas to better assist biomedical engineers in developing non-pharmaceutical medical solutions for neurodegenrative diseases such as PD and MCI.
+
+
+
+
+
+
+{% comment %}
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
@@ -84,4 +92,4 @@ The generated sitemap of your blog can be found at <https://yourgithubusername.g
 
 MIT
 
-
+{% endcomment %}
