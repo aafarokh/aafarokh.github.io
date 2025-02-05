@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publicatoins
+title: My Research
 permalink: /search/
 ---
 
