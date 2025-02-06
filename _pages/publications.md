@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting started with Reverie
-permalink: /getting-started/
+title: Bio
+permalink: /biography/
 ---
 
 ### Step 1) Fork Reverie to your User Repository
