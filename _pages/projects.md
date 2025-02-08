@@ -4,20 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+### 1) Computational Modelling of thalamo-cortical microcircuits for human movement
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+### 2) Deep brain stimulation for Parkinson's disease
 
-### Step 2) Customize and view your site
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+### 3) single neurons and neuronal networks modeling
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+### 4) Sound/Music perception and computational modeling of the auditory system
 
+{% comment %}
 ### Step 3) Publish your first blog post
 
 Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
@@ -49,3 +47,4 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 ## Sitemap
 
 The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+{% endcomment %}
