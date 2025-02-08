@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Publications
+title: The fruits of my labor
 permalink: /pubs/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Here you will find information about the research publications I’ve been involved with. Throughout my research, I’ve had the opportunity to work on many interesting projects that have enriched my understanding and paved the path towards my successful scientific career. I’m proud to showcase my hard work with the list of publications below. You can also check my google scholar for more references [Google Scholar](https://scholar.google.com/citations?user=57FPEXMAAAAJ&hl=en).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
 ## Features
 
