@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+I have two main stream lines of projects that are "theories, modeling and simulations" and "data analysis". 
+
 ### 1) Computational Modelling of thalamo-cortical microcircuits for human movement
 
 
