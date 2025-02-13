@@ -6,6 +6,7 @@ permalink: /projects/
 
 I work on different lines of research that can be categorized in two: modeling and data analysis. They, in turn, have different applications from basic understanding of the nervous system and underlying mechanisms, and on the other hand, biomedical applications and emerging therapies for neurodegenerative diseases.
 
+## Modeling and Simulation
 ### 1) Computational Modelling of thalamo-cortical microcircuits for human movement
 
 
@@ -16,6 +17,10 @@ I work on different lines of research that can be categorized in two: modeling a
 ### 3) single neurons and neuronal networks modeling
 
 ### 4) Sound/Music perception and computational modeling of the auditory system
+
+## new devices, strategies
+
+## data analysis
 
 {% comment %}
 ### Step 3) Publish your first blog post
