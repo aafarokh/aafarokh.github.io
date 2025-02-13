@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-I have two main stream lines of projects that are "theories, modeling and simulations" and "data analysis". 
+I work on different lines of research that can be categorized in two: modeling and data analysis. They, in turn, have different applications from basic understanding of the nervous system and underlying mechanisms, and on the other hand, biomedical applications and emerging therapies for neurodegenerative diseases.
 
 ### 1) Computational Modelling of thalamo-cortical microcircuits for human movement
 
