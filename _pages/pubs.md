@@ -5,6 +5,7 @@ permalink: /pubs/
 ---
 
 ***This page is still developing and is not complete yet. For a full list of my publications please see my [Google Scholar](https://scholar.google.com/citations?user=57FPEXMAAAAJ&hl=en).***
+
 Here you will find information about the research publications I’ve been involved with. Throughout my research, I’ve had the opportunity to work on many interesting projects that have enriched my understanding and paved the path towards my successful scientific career. I’m proud to showcase my hard work with the list of publications below. You can also check my google scholar for more references [Google Scholar](https://scholar.google.com/citations?user=57FPEXMAAAAJ&hl=en).
 
 
