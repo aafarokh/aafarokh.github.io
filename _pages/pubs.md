@@ -14,11 +14,8 @@ AmirAli Farokhniaee* and Madeleine M. Lowery "Cortical Network Effects of Subtha
 
 This is my major work in the lab of Prof. Lowery. We designed a multi-layer thalamo-cortical network of Izhikevich neurons, based on the most recent neurophysiological and computational studies that was capable of replicating experimental recordings of parkinsonian rats, and rodents and human, in parts. This model is beneficial to study network effects of DBS and testing different hypotheses of DBS mechanisms of action and pathways that contribute to its therapeutic effects. We performed both temporal and spectral analyse of the thalamo-cortical neural network and the coherence and synchronization analysis leading to formation of excited and inhibited clusters of cortical pyramidal neurons. We also identified the optimum levels of stimulation at both intensity and frequency domains that suppress the exaggerated beta activity in primary motor cortex.
 Key findings:
-- 
-- 
-
-Read it [here](https://iopscience.iop.org/article/10.1088/1741-2552/abee50).
-The model can be found [here](https://modeldb.science/266941?tab=1).
+- Read it [here](https://iopscience.iop.org/article/10.1088/1741-2552/abee50).
+- The model can be found [here](https://modeldb.science/266941?tab=1).
 
 ## Synaptic suppression and its contribution to deep brain stimulation mechanisms of action (2019)
 AmirAli Farokhniaee and Cameron C. McIntyre* "Theoretical Principles of Deep Brain Stimulation Induced Synaptic Suppression", Brain Stimulation, (2019)

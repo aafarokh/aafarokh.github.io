@@ -20,7 +20,11 @@ I work on different lines of research that can be categorized in two: modeling a
 
 ## new devices, strategies
 
-## data analysis
+## Data Analysis
+### 1) Local field potential (LFP) analysis
+
+### 2) Electroencephalography (EEG) analysis
+
 
 {% comment %}
 ### Step 3) Publish your first blog post
