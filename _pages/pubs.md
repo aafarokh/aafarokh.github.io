@@ -9,15 +9,16 @@ permalink: /pubs/
 Here you will find information about the research publications I’ve been involved with. Throughout my research, I’ve had the opportunity to work on many interesting projects that have enriched my understanding and paved the path towards my successful scientific career. I’m proud to showcase my hard work with the list of publications below. You can also check my google scholar for more references [Google Scholar](https://scholar.google.com/citations?user=57FPEXMAAAAJ&hl=en).
 
 
-## A Thalamo-cortical siking network model of deep brain stimulation (2021)
-AmirAli Farokhniaee* and Madeleine M. Lowery
-"Cortical Network Effects of Subthalamic Deep Brain Stimulation in a Thalamo-Cortical Microcircuit Model", Journal of Neural Engineering. in press https://doi.org/10.1088/1741-2552/abee50
-This is my major work in the lab of Prof. Lowery. We designed a multi-layer thalamo-cortical network of Izhikevich neurons, based on the most recent neurophysiological and computational studies that is capable of replicating experimental recordings of parkinsonian rats. This model is beneficial to study network effects of DBS and testing different hypotheses of DBS mechanisms of action. We have done both temporal and spectral analyse of the thalamo-cortical neural network and currently are wrapping up the coherence and synchronization analysis leading to understanding the causal effects of multiple layers of motor cortex on the network.
+## A network model of deep brain stimulation (2021)
+AmirAli Farokhniaee* and Madeleine M. Lowery "Cortical Network Effects of Subthalamic Deep Brain Stimulation in a Thalamo-Cortical Microcircuit Model". Journal of Neural Engineering, https://doi.org/10.1088/1741-2552/abee50
+
+This is my major work in the lab of Prof. Lowery. We designed a multi-layer thalamo-cortical network of Izhikevich neurons, based on the most recent neurophysiological and computational studies that was capable of replicating experimental recordings of parkinsonian rats, and rodents and human, in parts. This model is beneficial to study network effects of DBS and testing different hypotheses of DBS mechanisms of action and pathways that contribute to its therapeutic effects. We performed both temporal and spectral analyse of the thalamo-cortical neural network and the coherence and synchronization analysis leading to formation of excited and inhibited clusters of cortical pyramidal neurons. We also identified the optimum levels of stimulation at both intensity and frequency domains that suppress the exaggerated beta activity in primary motor cortex.
 Key findings:
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
+- 
 - 
 
-Read it [here](https://iopscience.iop.org/article/10.1088/1741-2552/abee50)
+Read it [here](https://iopscience.iop.org/article/10.1088/1741-2552/abee50).
+The model can be found [here](https://modeldb.science/266941?tab=1).
 
 ## Synaptic suppression and its contribution to deep brain stimulation mechanisms of action (2019)
 AmirAli Farokhniaee and Cameron C. McIntyre* "Theoretical Principles of Deep Brain Stimulation Induced Synaptic Suppression", Brain Stimulation, (2019)
