@@ -18,13 +18,12 @@ Key findings:
 - The model can be found [here](https://modeldb.science/266941?tab=1).
 
 ## Synaptic suppression and its contribution to deep brain stimulation mechanisms of action (2019)
-AmirAli Farokhniaee and Cameron C. McIntyre* "Theoretical Principles of Deep Brain Stimulation Induced Synaptic Suppression", Brain Stimulation, (2019)
-DOI: 10.1016/j.brs.2019.07.005.
-This paper reports my major achievements during my first postdoc in the lab of Prof. McIntyre that covers an overall understanding of glutamatergic synapses in the cortex and their contribution in the cortical neuron firing patterns during DBS. We were able to model the firing pattern of M1 cortical neurons recorded during 1 minute of DBS on a monkey (recorded in another lab), by computational modelling of LIF neurons. Based on these results we proposed a novel DBS pattern with less stimulation time periods that enhances the battery life of the implanted device for DBS and probably less side effects for the PD patients.
-Key findings:
-- 
-- 
-Read it [here](https://www.sciencedirect.com/science/article/abs/pii/S1935861X1930289X)
+AmirAli Farokhniaee and Cameron C. McIntyre* "Theoretical Principles of Deep Brain Stimulation Induced Synaptic Suppression", Brain Stimulation, DOI: 10.1016/j.brs.2019.07.005.
+
+This paper reports my major achievements during my first postdoc in the lab of Prof. McIntyre that covers an overall understanding of glutamatergic synapses in the cortex and their contribution to the cortical neuron firing patterns during DBS. We were able to model the firing pattern of M1 cortical neurons recorded during 1 minute of DBS in a parkinsonian monkey (recorded in another lab), by the computational modelling of LIF neurons as Stein's model. Based on these results we proposed a novel DBS pattern with less stimulation time periods that enhances the battery life of the implanted device for DBS and probably less side effects for the PD patients.
+- Read it [here](https://www.sciencedirect.com/science/article/abs/pii/S1935861X1930289X).
+- [US Patent](https://patents.google.com/patent/US11654286B2/en)
+
 
 ## Arnold tongues for Izhikevich neurons (2017)
 AmirAli Farokhniaee* and Edward W. Large "Mode-locking behavior of Izhikevich neurons under periodic external forcing", Physical Review E, 95, 062414 (2017) DOI: 10.1103/Phys-RevE.95.062414
