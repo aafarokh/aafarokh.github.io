@@ -10,7 +10,7 @@ Here you will find information about the research publications I’ve been invol
 
 
 ## A network model of deep brain stimulation (2021)
-AmirAli Farokhniaee* and Madeleine M. Lowery "Cortical Network Effects of Subthalamic Deep Brain Stimulation in a Thalamo-Cortical Microcircuit Model". Journal of Neural Engineering, https://doi.org/10.1088/1741-2552/abee50
+AmirAli Farokhniaee* and Madeleine M. Lowery "Cortical Network Effects of Subthalamic Deep Brain Stimulation in a Thalamo-Cortical Microcircuit Model". Journal of Neural Engineering, [DOI: 10.1088/1741-2552/abee50](https://doi.org/10.1088/1741-2552/abee50)
 
 This is my major work in the lab of Prof. Lowery. We designed a multi-layer thalamo-cortical network of Izhikevich neurons, based on the most recent neurophysiological and computational studies that was capable of replicating experimental recordings of parkinsonian rats, and rodents and human, in parts. This model is beneficial to study network effects of DBS and testing different hypotheses of DBS mechanisms of action and pathways that contribute to its therapeutic effects. We performed both temporal and spectral analyse of the thalamo-cortical neural network and the coherence and synchronization analysis leading to formation of excited and inhibited clusters of cortical pyramidal neurons. We also identified the optimum levels of stimulation at both intensity and frequency domains that suppress the exaggerated beta activity in primary motor cortex.
 Key findings:
@@ -18,7 +18,7 @@ Key findings:
 - The model can be found [here](https://modeldb.science/266941?tab=1).
 
 ## Synaptic suppression and its contribution to deep brain stimulation mechanisms of action (2019)
-AmirAli Farokhniaee and Cameron C. McIntyre* "Theoretical Principles of Deep Brain Stimulation Induced Synaptic Suppression", Brain Stimulation, DOI: 10.1016/j.brs.2019.07.005.
+AmirAli Farokhniaee and Cameron C. McIntyre* "Theoretical Principles of Deep Brain Stimulation Induced Synaptic Suppression", Brain Stimulation, [DOI: 10.1016/j.brs.2019.07.005](https://doi.org/10.1016/j.brs.2019.07.005)
 
 This paper reports my major achievements during my first postdoc in the lab of Prof. McIntyre that covers an overall understanding of glutamatergic synapses in the cortex and their contribution to the cortical neuron firing patterns during DBS. We were able to model the firing pattern of M1 cortical neurons recorded during 1 minute of DBS in a parkinsonian monkey (recorded in another lab), by the computational modelling of LIF neurons as Stein's model. Based on these results we proposed a novel DBS pattern with less stimulation time periods that enhances the battery life of the implanted device for DBS and probably less side effects for the PD patients.
 - Read it [here](https://www.sciencedirect.com/science/article/abs/pii/S1935861X1930289X).
