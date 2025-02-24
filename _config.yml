@@ -32,6 +32,7 @@ footer-links:
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
+  googlescholar: citations?user=57FPEXMAAAAJ&hl=en&authuser=1/ # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
