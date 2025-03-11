@@ -27,7 +27,7 @@ This paper reports my major achievements during my first postdoc in the lab of P
 
 ## Arnold tongues for Izhikevich neurons (2017)
 AmirAli Farokhniaee* and Edward W. Large "Mode-locking behavior of Izhikevich neurons under periodic external forcing", Physical Review E. [DOI: 10.1103/Phys-RevE.95.062414](https://doi.org/10.1103/PhysRevE.95.062414)
-
+ 
 This paper reports my major computational achievements during my PhD studies. It explains the single neuron responses to periodical stimuli and how their response gets temporally locked (phase-locked) to the stimulus, depending on the amplitude and frequency. This is a very basic phenomenon that manifests in many parts of the brain.
 - Read it [here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062414).
 

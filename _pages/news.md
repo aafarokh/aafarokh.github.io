@@ -4,6 +4,15 @@ title: News and Events
 permalink: /news/
 ---
 
+## Invited Speaker at Krembil Institute
+24 May 2022
+
+Biophysically-realistic network modeling of deep brain stimulation and the role of
+computational neuroscience. Krembil Computational Neuroscience Seminar Series, Krembil Center and
+University of Toronto, Toronto, Canada
+
+- [Read more](https://kcnhub.com/event/kcn-event-seminar-may24)
+- The slides are [here]()
 
 ## Interview with EU Horizon  magazine
 29 October 2019
